@@ -71,11 +71,11 @@ Throughout the analysis, address the following questions:
 
 ## 🖥️ IDE & Setup
 
-### IDE
+### 💡 IDE
 - **IDE**: You can use any Python-based IDE for this project, but the one used by the author is:
   - **Jupyter Notebook** (ideal for interactive exploration)
 
-### Libraries
+### 📚 Libraries
 This project uses the following Python libraries:
 - **Pandas** - For data manipulation and analysis
 - **Matplotlib** - For creating static, animated, and interactive visualizations
